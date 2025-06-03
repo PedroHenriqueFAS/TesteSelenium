@@ -28,7 +28,9 @@ assuntos_chave = []
 for paragrafo in paragrafos: #veja se tem ancoras dentro dos paragrafos
     elementos_ancora = paragrafo.find_elements(By.TAG_NAME, 'a') #Lista de elementos ancoras
     for ancora in elementos_ancora:
-        assuntos_chave.append(ancora.get_attribute('href')) #Adiciona na assuntos_chave(gera uma lista de links) cada ancora encontrada
+        #Adiciona na assuntos_chave(gera uma lista de links) cada ancora encontrada
+        print(ancora.text)
+        assuntos_chave.append([ancora.text, ancora.get_attribute('href')])
         
 for elemento in assuntos_chave:
     print(elemento)
