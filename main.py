@@ -31,5 +31,5 @@ for paragrafo in paragrafos: #veja se tem ancoras dentro dos paragrafos
         assuntos_chave.append(ancora.get_attribute('href')) #Adiciona na assuntos_chave cada ancora encontrada
         
 for elemento in assuntos_chave:
-    print(elemento.text)
+    print(elemento)
 input('enter para finalizar\n')
