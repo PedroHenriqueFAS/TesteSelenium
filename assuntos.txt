@@ -1,57 +1,460 @@
-Assunto: George Boole
-Tema: Lincoln - link: https://pt.wikipedia.org/wiki/Lincoln_(Inglaterra)
-Tema: 2 de novembro - link: https://pt.wikipedia.org/wiki/2_de_novembro
-Tema: 1815 - link: https://pt.wikipedia.org/wiki/1815
-Tema: 8 de dezembro - link: https://pt.wikipedia.org/wiki/8_de_dezembro
-Tema: 1864 - link: https://pt.wikipedia.org/wiki/1864
-Tema: matem�tico - link: https://pt.wikipedia.org/wiki/Matem%C3%A1tico
-Tema: fil�sofo - link: https://pt.wikipedia.org/wiki/Fil%C3%B3sofo
-Tema: brit�nico - link: https://pt.wikipedia.org/wiki/Brit%C3%A2nico
-Tema: �lgebra booleana - link: https://pt.wikipedia.org/wiki/%C3%81lgebra_booleana
-Tema: [3] - link: https://pt.wikipedia.org/wiki/George_Boole#cite_note-3
-Tema: Ballintemple - link: https://en.wikipedia.org/wiki/Ballintemple,_Cork
-Tema: catecismo - link: https://pt.wikipedia.org/wiki/Catecismo
-Tema: latim - link: https://pt.wikipedia.org/wiki/L%C3%ADngua_latina
+Assunto: Automóvel
 Tema: grego - link: https://pt.wikipedia.org/wiki/L%C3%ADngua_grega
-Tema: gram�tica - link: https://pt.wikipedia.org/wiki/Gram%C3%A1tica
 Tema: latim - link: https://pt.wikipedia.org/wiki/Latim
-Tema: matem�tica - link: https://pt.wikipedia.org/wiki/Matem%C3%A1tica
-Tema: advocacia - link: https://pt.wikipedia.org/wiki/Direito
-Tema: igreja - link: https://pt.wikipedia.org/wiki/Igreja
-Tema: franc�s - link: https://pt.wikipedia.org/wiki/L%C3%ADngua_francesa
-Tema: alem�o - link: https://pt.wikipedia.org/wiki/L%C3%ADngua_alem%C3%A3
-Tema: italiano - link: https://pt.wikipedia.org/wiki/L%C3%ADngua_italiana
-Tema: Bertrand Russell - link: https://pt.wikipedia.org/wiki/Bertrand_Russell
-Tema: Leis do Pensamento - link: https://pt.wikipedia.org/w/index.php?title=Leis_do_Pensamento&action=edit&redlink=1
-Tema: M�canique C�leste - link: https://pt.wikipedia.org/w/index.php?title=M%C3%A9canique_C%C3%A9leste&action=edit&redlink=1
-Tema: Laplace - link: https://pt.wikipedia.org/wiki/Pierre_Simon_Laplace
-Tema: mec�nica anal�tica - link: https://pt.wikipedia.org/wiki/Mec%C3%A2nica_anal%C3%ADtica
-Tema: Lagrange - link: https://pt.wikipedia.org/wiki/Joseph-Louis_Lagrange
-Tema: c�lculo de varia��es - link: https://pt.wikipedia.org/wiki/C%C3%A1lculo_de_varia%C3%A7%C3%B5es
-Tema: invariantes - link: https://pt.wikipedia.org/wiki/Invariante
-Tema: teoria matem�tica dos invariantes - link: https://pt.wikipedia.org/wiki/Teoria_dos_invariantes
-Tema: Teoria da Relatividade - link: https://pt.wikipedia.org/wiki/Teoria_da_Relatividade
-Tema: escoc�s - link: https://pt.wikipedia.org/wiki/Esc%C3%B3cia
-Tema: D. F. Gregory - link: https://pt.wikipedia.org/w/index.php?title=Duncan_Farquharson_Gregory&action=edit&redlink=1
-Tema: �lgebra - link: https://pt.wikipedia.org/wiki/%C3%81lgebra
-Tema: s�culo XVIII - link: https://pt.wikipedia.org/wiki/S%C3%A9culo_XVIII
-Tema: Hamilton - link: https://pt.wikipedia.org/wiki/Hamilton
-Tema: brit�nicos - link: https://pt.wikipedia.org/wiki/Reino_Unido
-Tema: De Morgan - link: https://pt.wikipedia.org/wiki/De_Morgan
-Tema: Cork - link: https://pt.wikipedia.org/wiki/Cork
-Tema: Irlanda - link: https://pt.wikipedia.org/wiki/Irlanda
-Tema: University College Cork - link: https://pt.wikipedia.org/wiki/University_College_Cork
-Tema: [4] - link: https://pt.wikipedia.org/wiki/George_Boole#cite_note-4
-Tema: [5] - link: https://pt.wikipedia.org/wiki/George_Boole#cite_note-:0-5
-Tema: Royal Society - link: https://pt.wikipedia.org/wiki/Royal_Society
-Tema: c�lculo - link: https://pt.wikipedia.org/wiki/C%C3%A1lculo
-Tema: l�gica simb�lica - link: https://pt.wikipedia.org/wiki/L%C3%B3gica_simb%C3%B3lica
-Tema: Whitehead - link: https://pt.wikipedia.org/wiki/Alfred_North_Whitehead
-Tema: Russell - link: https://pt.wikipedia.org/wiki/Bertrand_Russell
-Tema: Principia Mathematica - link: https://pt.wikipedia.org/wiki/Principia_Mathematica
-Tema: Mary Everest - link: https://pt.wikipedia.org/wiki/Mary_Everest_Boole
-Tema: [1] - link: https://pt.wikipedia.org/wiki/George_Boole#cite_note-biografia-1
-Tema: George Everest - link: https://pt.wikipedia.org/wiki/George_Everest
-Tema: pneumonia - link: https://pt.wikipedia.org/wiki/Pneumonia
-Tema: [1] - link: https://pt.wikipedia.org/wiki/George_Boole#cite_note-biografia-1
-Tema: boolean - link: https://pt.wikipedia.org/wiki/Boolean
+Tema: línguas celtas - link: https://pt.wikipedia.org/wiki/L%C3%ADnguas_celtas
+Tema: [2] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-2
+Tema: veículo motorizado - link: https://pt.wikipedia.org/wiki/Ve%C3%ADculo_motorizado
+Tema: rodas - link: https://pt.wikipedia.org/wiki/Roda
+Tema: transporte - link: https://pt.wikipedia.org/wiki/Transporte
+Tema: pneus - link: https://pt.wikipedia.org/wiki/Pneu
+Tema: [3] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-3
+Tema: [4] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-OEDmotrcar-4
+Tema: Karl Benz - link: https://pt.wikipedia.org/wiki/Karl_Benz
+Tema: Benz Patent-Motorwagen - link: https://pt.wikipedia.org/wiki/Benz_Patent-Motorwagen
+Tema: [5] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Top_Gear-5
+Tema: Model T - link: https://pt.wikipedia.org/wiki/Model_T
+Tema: Ford Motor Company - link: https://pt.wikipedia.org/wiki/Ford_Motor_Company
+Tema: Estados Unidos - link: https://pt.wikipedia.org/wiki/Estados_Unidos
+Tema: carruagens - link: https://pt.wikipedia.org/wiki/Carruagens
+Tema: puxados por animais - link: https://pt.wikipedia.org/wiki/Trabalho_animal
+Tema: Europa Ocidental - link: https://pt.wikipedia.org/wiki/Europa_Ocidental
+Tema: marcha à ré - link: https://pt.wikipedia.org/wiki/Marcha_%C3%A0_r%C3%A9
+Tema: ar condicionado - link: https://pt.wikipedia.org/wiki/Ar_condicionado
+Tema: sistema de navegação por satélite - link: https://pt.wikipedia.org/wiki/Sistema_de_navega%C3%A7%C3%A3o_por_sat%C3%A9lite
+Tema: carro elétrico - link: https://pt.wikipedia.org/wiki/Carro_el%C3%A9trico
+Tema: célula de combustível - link: https://pt.wikipedia.org/wiki/C%C3%A9lula_de_combust%C3%ADvel
+Tema: hidrogênio - link: https://pt.wikipedia.org/wiki/Hidrog%C3%AAnio
+Tema: [6] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-WIPO-6
+Tema: motor de combustão interna - link: https://pt.wikipedia.org/wiki/Motor_de_combust%C3%A3o_interna
+Tema: combustíveis fósseis - link: https://pt.wikipedia.org/wiki/Combust%C3%ADveis_f%C3%B3sseis
+Tema: [7] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-racv-7
+Tema: congestionamentos - link: https://pt.wikipedia.org/wiki/Congestionamento
+Tema: poluição do ar - link: https://pt.wikipedia.org/wiki/Polui%C3%A7%C3%A3o_do_ar
+Tema: acidentes de trânsito - link: https://pt.wikipedia.org/wiki/Acidentes_de_tr%C3%A2nsito
+Tema: [8] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-who_stats-8
+Tema: [9] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-setright-9
+Tema: [10] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-10
+Tema: [11] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-CuriousExp-11
+Tema: indústria automotiva - link: https://pt.wikipedia.org/wiki/Ind%C3%BAstria_automotiva
+Tema: [12] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-parking-12
+Tema: China - link: https://pt.wikipedia.org/wiki/China
+Tema: Índia - link: https://pt.wikipedia.org/wiki/%C3%8Dndia
+Tema: países recentemente industrializados - link: https://pt.wikipedia.org/wiki/Pa%C3%ADses_recentemente_industrializados
+Tema: [13] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-plunkettresearch.com-13
+Tema: latim - link: https://pt.wikipedia.org/wiki/Latim
+Tema: gaulesa - link: https://pt.wikipedia.org/wiki/L%C3%ADngua_gaulesa
+Tema: [14] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-14
+Tema: [15] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Carrus-15
+Tema: carroça - link: https://pt.wikipedia.org/wiki/Carro%C3%A7a
+Tema: [16] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-OEDcar-16
+Tema: [17] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-17
+Tema: grega antiga - link: https://pt.wikipedia.org/wiki/L%C3%ADngua_grega_antiga
+Tema: [18] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-18
+Tema: a vapor - link: https://pt.wikipedia.org/wiki/Motor_a_vapor
+Tema: Ferdinand Verbiest - link: https://pt.wikipedia.org/wiki/Ferdinand_Verbiest
+Tema: Flandres - link: https://pt.wikipedia.org/wiki/Flandres
+Tema: carro a vapor - link: https://pt.wikipedia.org/wiki/Carro_a_vapor
+Tema: imperador da China - link: https://pt.wikipedia.org/wiki/Lista_de_imperadores_da_China
+Tema: Nicolas-Joseph Cugnot - link: https://pt.wikipedia.org/wiki/Nicolas-Joseph_Cugnot
+Tema: França - link: https://pt.wikipedia.org/wiki/Fran%C3%A7a
+Tema: Reino Unido - link: https://pt.wikipedia.org/wiki/Reino_Unido
+Tema: Richard Trevithick - link: https://pt.wikipedia.org/wiki/Richard_Trevithick
+Tema: vagão - link: https://pt.wikipedia.org/wiki/Vag%C3%A3o
+Tema: freio de mão - link: https://pt.wikipedia.org/wiki/Freio_de_m%C3%A3o
+Tema: caixa de câmbio - link: https://pt.wikipedia.org/wiki/Caixa_de_c%C3%A2mbio
+Tema: direcção - link: https://pt.wikipedia.org/wiki/Direc%C3%A7%C3%A3o
+Tema: bandeira - link: https://pt.wikipedia.org/wiki/Bandeira
+Tema: corneta - link: https://pt.wikipedia.org/wiki/Corneta
+Tema: inventores - link: https://pt.wikipedia.org/wiki/Inventor
+Tema: engenheiros - link: https://pt.wikipedia.org/wiki/Engenheiro
+Tema: caminhos-de-ferro - link: https://pt.wikipedia.org/wiki/Caminho-de-ferro
+Tema: locomotivas - link: https://pt.wikipedia.org/wiki/Locomotiva
+Tema: lei da bandeira vermelha - link: https://pt.wikipedia.org/w/index.php?title=Lei_da_bandeira_vermelha&action=edit&redlink=1
+Tema: carece de fontes - link: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Livro_de_estilo/Cite_as_fontes
+Tema: motor a quatro tempos - link: https://pt.wikipedia.org/wiki/Motor_a_quatro_tempos
+Tema: Siegfried Marcus - link: https://pt.wikipedia.org/wiki/Siegfried_Marcus
+Tema: Viena - link: https://pt.wikipedia.org/wiki/Viena
+Tema: conde - link: https://pt.wikipedia.org/wiki/Conde
+Tema: Nikolaus Otto - link: https://pt.wikipedia.org/wiki/Nikolaus_Otto
+Tema: alemão - link: https://pt.wikipedia.org/wiki/Alemanha
+Tema: Nikolaus August Otto - link: https://pt.wikipedia.org/wiki/Nikolaus_August_Otto
+Tema: motor - link: https://pt.wikipedia.org/wiki/Motor
+Tema: álcool combustível - link: https://pt.wikipedia.org/wiki/%C3%81lcool_combust%C3%ADvel
+Tema: gasolina - link: https://pt.wikipedia.org/wiki/Gasolina
+Tema: gás - link: https://pt.wikipedia.org/wiki/G%C3%A1s
+Tema: motores a vapor - link: https://pt.wikipedia.org/wiki/Motor_a_vapor
+Tema: carece de fontes - link: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Livro_de_estilo/Cite_as_fontes
+Tema: patente - link: https://pt.wikipedia.org/wiki/Patente
+Tema: Estados Unidos - link: https://pt.wikipedia.org/wiki/Estados_Unidos
+Tema: Oliver Evans - link: https://pt.wikipedia.org/wiki/Oliver_Evans
+Tema: anfíbio - link: https://pt.wikipedia.org/wiki/Anf%C3%ADbio_(ve%C3%ADculo)
+Tema: a vapor - link: https://pt.wikipedia.org/wiki/Motor_a_vapor
+Tema: rodas - link: https://pt.wikipedia.org/wiki/Roda
+Tema: pás - link: https://pt.wikipedia.org/wiki/Barco_a_vapor
+Tema: [19] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-19
+Tema: belga - link: https://pt.wikipedia.org/wiki/B%C3%A9lgica
+Tema: Étienne Lenoir - link: https://pt.wikipedia.org/wiki/%C3%89tienne_Lenoir
+Tema: motor de combustão interna - link: https://pt.wikipedia.org/wiki/Motor_de_combust%C3%A3o_interna
+Tema: carvão - link: https://pt.wikipedia.org/wiki/Carv%C3%A3o
+Tema: Hippomobile - link: https://pt.wikipedia.org/wiki/Hippomobile
+Tema: veículo com motor de combustão interna a hidrogênio - link: https://pt.wikipedia.org/wiki/Ve%C3%ADculo_com_motor_de_combust%C3%A3o_interna_a_hidrog%C3%AAnio
+Tema: eletrólise - link: https://pt.wikipedia.org/wiki/Eletr%C3%B3lise
+Tema: [20] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-20
+Tema: Deboutteville-Delamare - link: https://pt.wikipedia.org/wiki/Deboutteville-Delamare
+Tema: [21] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-21
+Tema: combustão interna - link: https://pt.wikipedia.org/wiki/Motor_de_combust%C3%A3o_interna
+Tema: alemães - link: https://pt.wikipedia.org/wiki/Alemanha
+Tema: Karl Benz - link: https://pt.wikipedia.org/wiki/Karl_Benz
+Tema: Mannheim - link: https://pt.wikipedia.org/wiki/Mannheim
+Tema: patente - link: https://pt.wikipedia.org/wiki/Patente
+Tema: produção em massa - link: https://pt.wikipedia.org/wiki/Ind%C3%BAstria_autom%C3%B3vel
+Tema: Gottlieb Daimler - link: https://pt.wikipedia.org/wiki/Gottlieb_Daimler
+Tema: Wilhelm Maybach - link: https://pt.wikipedia.org/wiki/Wilhelm_Maybach
+Tema: Estugarda - link: https://pt.wikipedia.org/wiki/Estugarda
+Tema: carroça - link: https://pt.wikipedia.org/wiki/Carro%C3%A7a
+Tema: carroçaria - link: https://pt.wikipedia.org/wiki/Carro%C3%A7aria
+Tema: [22] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-22
+Tema: primeira - link: https://pt.wikipedia.org/wiki/Daimler_Reitwagen
+Tema: motocicleta - link: https://pt.wikipedia.org/wiki/Motocicleta
+Tema: petróleo - link: https://pt.wikipedia.org/wiki/Petr%C3%B3leo
+Tema: Birmingham - link: https://pt.wikipedia.org/wiki/Birmingham
+Tema: Reino Unido - link: https://pt.wikipedia.org/wiki/Reino_Unido
+Tema: Frederick William Lanchester - link: https://pt.wikipedia.org/wiki/Frederick_William_Lanchester
+Tema: travão de disco - link: https://pt.wikipedia.org/wiki/Trav%C3%A3o_de_disco
+Tema: carece de fontes - link: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Livro_de_estilo/Cite_as_fontes
+Tema: Rudolf Diesel - link: https://pt.wikipedia.org/wiki/Rudolf_Diesel
+Tema: patenteou - link: https://pt.wikipedia.org/wiki/Patente
+Tema: inventou - link: https://pt.wikipedia.org/wiki/Invento
+Tema: [23] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Automostory-23
+Tema: motor a diesel - link: https://pt.wikipedia.org/wiki/Motor_a_diesel
+Tema: biocombustível - link: https://pt.wikipedia.org/wiki/Biocombust%C3%ADvel
+Tema: óleo de amendoim - link: https://pt.wikipedia.org/wiki/%C3%93leo_de_amendoim
+Tema: [23] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Automostory-23
+Tema: Augsburg - link: https://pt.wikipedia.org/wiki/Augsburg
+Tema: Alemanha - link: https://pt.wikipedia.org/wiki/Alemanha
+Tema: [23] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Automostory-23
+Tema: Dia Internacional do Biodiesel - link: https://pt.wikipedia.org/w/index.php?title=Dia_Internacional_do_Biodiesel&action=edit&redlink=1
+Tema: [24] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-24
+Tema: civil - link: https://pt.wikipedia.org/wiki/Civil
+Tema: militar - link: https://pt.wikipedia.org/wiki/Militar
+Tema: [25] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-25
+Tema: [26] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-26
+Tema: [27] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-27
+Tema: [28] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-28
+Tema: [29] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-29
+Tema: diesel - link: https://pt.wikipedia.org/wiki/Diesel
+Tema: década de 1930 - link: https://pt.wikipedia.org/wiki/D%C3%A9cada_de_1930
+Tema: França - link: https://pt.wikipedia.org/wiki/Fran%C3%A7a
+Tema: Alemanha - link: https://pt.wikipedia.org/wiki/Alemanha_nazista
+Tema: [30] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-30
+Tema: km/h - link: https://pt.wikipedia.org/wiki/Km/h
+Tema: carro elétrico - link: https://pt.wikipedia.org/wiki/Carro_el%C3%A9trico
+Tema: La Jamais Contente - link: https://pt.wikipedia.org/wiki/La_Jamais_Contente
+Tema: [31] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Douglas_Lambert_with_La_Jamais_Contente_-_Record_Breakers_1989-31
+Tema: [32] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-La_Jamais_Contente-32
+Tema: belga - link: https://pt.wikipedia.org/wiki/Belga
+Tema: Camille Jenatzy - link: https://pt.wikipedia.org/wiki/Camille_Jenatzy
+Tema: Paris - link: https://pt.wikipedia.org/wiki/Paris
+Tema: Parc agricole d'Achères - link: https://pt.wikipedia.org/w/index.php?title=Parc_agricole_d%27Ach%C3%A8res&action=edit&redlink=1
+Tema: [32] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-La_Jamais_Contente-32
+Tema: aerodinâmica - link: https://pt.wikipedia.org/wiki/Aerodin%C3%A2mica
+Tema: [31] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Douglas_Lambert_with_La_Jamais_Contente_-_Record_Breakers_1989-31
+Tema: Aerodinâmica automotiva - link: https://pt.wikipedia.org/wiki/Aerodin%C3%A2mica_automotiva
+Tema: astromóvel - link: https://pt.wikipedia.org/wiki/Astrom%C3%B3vel
+Tema: corpo celeste - link: https://pt.wikipedia.org/wiki/Corpo_celeste
+Tema: soviético - link: https://pt.wikipedia.org/wiki/Programa_espacial_sovi%C3%A9tico
+Tema: Lunokhod 1 - link: https://pt.wikipedia.org/wiki/Lunokhod_1
+Tema: pousou na Lua - link: https://pt.wikipedia.org/wiki/Alunissagem
+Tema: [33] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-33
+Tema: tripulado - link: https://pt.wikipedia.org/wiki/Tripula%C3%A7%C3%A3o
+Tema: controlado remotamente - link: https://pt.wikipedia.org/wiki/Controlo_remoto
+Tema: Terra - link: https://pt.wikipedia.org/wiki/Terra
+Tema: [34] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-34
+Tema: conduzido - link: https://pt.wikipedia.org/wiki/Condu%C3%A7%C3%A3o_(transporte)
+Tema: estadounidense - link: https://pt.wikipedia.org/wiki/Programa_espacial_dos_Estados_Unidos
+Tema: Lunar Roving Vehicle - link: https://pt.wikipedia.org/wiki/Lunar_Roving_Vehicle
+Tema: Missão Apollo 15 - link: https://pt.wikipedia.org/wiki/Apollo_15
+Tema: [35] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-TDIA-35
+Tema: linha de produção - link: https://pt.wikipedia.org/wiki/Linha_de_produ%C3%A7%C3%A3o
+Tema: Ransom Olds - link: https://pt.wikipedia.org/wiki/Ransom_Eli_Olds
+Tema: Oldsmobile - link: https://pt.wikipedia.org/wiki/Oldsmobile
+Tema: 1902 - link: https://pt.wikipedia.org/wiki/1902
+Tema: Henry Ford - link: https://pt.wikipedia.org/wiki/Henry_Ford
+Tema: Ford - link: https://pt.wikipedia.org/wiki/Ford
+Tema: produtividade - link: https://pt.wikipedia.org/wiki/Produtividade
+Tema: [36] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Georgano-36
+Tema: pintura - link: https://pt.wikipedia.org/wiki/Pintura
+Tema: empresa - link: https://pt.wikipedia.org/wiki/Empresa
+Tema: verniz - link: https://pt.wikipedia.org/wiki/Verniz
+Tema: Duco - link: https://pt.wikipedia.org/wiki/Duco
+Tema: [36] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Georgano-36
+Tema: trabalhador - link: https://pt.wikipedia.org/wiki/Trabalhador
+Tema: Modelo T - link: https://pt.wikipedia.org/wiki/Ford_Model_T
+Tema: [36] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Georgano-36
+Tema: segurança - link: https://pt.wikipedia.org/wiki/Seguran%C3%A7a_do_trabalho
+Tema: acidentes de trabalho - link: https://pt.wikipedia.org/wiki/Acidente_de_trabalho
+Tema: salários - link: https://pt.wikipedia.org/wiki/Sal%C3%A1rio
+Tema: fordismo - link: https://pt.wikipedia.org/wiki/Fordismo
+Tema: indústrias - link: https://pt.wikipedia.org/wiki/Ind%C3%BAstria
+Tema: Estados Unidos - link: https://pt.wikipedia.org/wiki/Estados_Unidos
+Tema: [37] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-37
+Tema: indústria automotiva - link: https://pt.wikipedia.org/wiki/Ind%C3%BAstria_automotiva
+Tema: Citroën - link: https://pt.wikipedia.org/wiki/Citro%C3%ABn
+Tema: falência - link: https://pt.wikipedia.org/wiki/Fal%C3%AAncia
+Tema: [36] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Georgano-36
+Tema: ignição - link: https://pt.wikipedia.org/wiki/Igni%C3%A7%C3%A3o
+Tema: Charles Kettering - link: https://pt.wikipedia.org/wiki/Charles_Kettering
+Tema: Cadillac - link: https://pt.wikipedia.org/wiki/Cadillac_(autom%C3%B3vel)
+Tema: suspensão - link: https://pt.wikipedia.org/wiki/Suspens%C3%A3o_automotiva
+Tema: design - link: https://pt.wikipedia.org/wiki/Design
+Tema: Alfred P. Sloan - link: https://pt.wikipedia.org/wiki/Alfred_P._Sloan
+Tema: carece de fontes - link: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Livro_de_estilo/Cite_as_fontes
+Tema: custos - link: https://pt.wikipedia.org/wiki/Custo
+Tema: LaSalles - link: https://pt.wikipedia.org/w/index.php?title=LaSalles&action=edit&redlink=1
+Tema: Cadillac - link: https://pt.wikipedia.org/wiki/Cadillac_(autom%C3%B3vel)
+Tema: Oldsmobile - link: https://pt.wikipedia.org/wiki/Oldsmobile
+Tema: Chevrolet - link: https://pt.wikipedia.org/wiki/Chevrolet
+Tema: capô - link: https://pt.wikipedia.org/wiki/Cap%C3%B4
+Tema: Pontiac - link: https://pt.wikipedia.org/wiki/Pontiac
+Tema: década de 1990 - link: https://pt.wikipedia.org/wiki/D%C3%A9cada_de_1990
+Tema: freios - link: https://pt.wikipedia.org/wiki/Freio
+Tema: Apperson - link: https://pt.wikipedia.org/w/index.php?title=Apperson&action=edit&redlink=1
+Tema: Cole - link: https://pt.wikipedia.org/wiki/Cole
+Tema: Dorris - link: https://pt.wikipedia.org/wiki/Dorris
+Tema: Haynes - link: https://pt.wikipedia.org/w/index.php?title=Haynes&action=edit&redlink=1
+Tema: Premier - link: https://pt.wikipedia.org/wiki/Premier
+Tema: Grande Depressão - link: https://pt.wikipedia.org/wiki/Grande_Depress%C3%A3o
+Tema: [36] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Georgano-36
+Tema: Europa - link: https://pt.wikipedia.org/wiki/Europa
+Tema: Cowley - link: https://pt.wikipedia.org/wiki/Cowley
+Tema: 1924 - link: https://pt.wikipedia.org/wiki/1924
+Tema: integração vertical - link: https://pt.wikipedia.org/wiki/Integra%C3%A7%C3%A3o_vertical
+Tema: Hotchkiss - link: https://pt.wikipedia.org/wiki/Hotchkiss
+Tema: Wrigley - link: https://pt.wikipedia.org/wiki/Wrigley
+Tema: Osberton - link: https://pt.wikipedia.org/w/index.php?title=Osberton&action=edit&redlink=1
+Tema: radiadores - link: https://pt.wikipedia.org/wiki/Radiador_(autom%C3%B3vel)
+Tema: Wolseley - link: https://pt.wikipedia.org/w/index.php?title=Wolseley&action=edit&redlink=1
+Tema: britânicos - link: https://pt.wikipedia.org/wiki/Reino_Unido
+Tema: Abadia - link: https://pt.wikipedia.org/wiki/Abadia
+Tema: Xtra - link: https://pt.wikipedia.org/w/index.php?title=Xtra&action=edit&redlink=1
+Tema: Citroën - link: https://pt.wikipedia.org/wiki/Citro%C3%ABn
+Tema: França - link: https://pt.wikipedia.org/wiki/Fran%C3%A7a
+Tema: 10CV - link: https://pt.wikipedia.org/w/index.php?title=10CV&action=edit&redlink=1
+Tema: Renault - link: https://pt.wikipedia.org/wiki/Renault
+Tema: 5CV - link: https://pt.wikipedia.org/w/index.php?title=5CV&action=edit&redlink=1
+Tema: Peugeot - link: https://pt.wikipedia.org/wiki/Peugeot
+Tema: Mors - link: https://pt.wikipedia.org/wiki/Mors
+Tema: Hurtu - link: https://pt.wikipedia.org/w/index.php?title=Hurtu&action=edit&redlink=1
+Tema: [36] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Georgano-36
+Tema: Opel - link: https://pt.wikipedia.org/wiki/Opel
+Tema: 4PS Laubfrosch - link: https://pt.wikipedia.org/w/index.php?title=4PS_Laubfrosch&action=edit&redlink=1
+Tema: Russelsheim - link: https://pt.wikipedia.org/w/index.php?title=Russelsheim&action=edit&redlink=1
+Tema: [36] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Georgano-36
+Tema: anos 1920 - link: https://pt.wikipedia.org/wiki/Anos_1920
+Tema: recordes - link: https://pt.wikipedia.org/wiki/Recorde
+Tema: propulsão de foguete - link: https://pt.wikipedia.org/wiki/Propuls%C3%A3o_de_foguete
+Tema: carros-foguete - link: https://pt.wikipedia.org/wiki/Carro-foguete
+Tema: Opel-RAK - link: https://pt.wikipedia.org/wiki/Opel-RAK
+Tema: Fritz von Opel - link: https://pt.wikipedia.org/wiki/Fritz_von_Opel
+Tema: apelidado - link: https://pt.wikipedia.org/wiki/Alcunha
+Tema: [38] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-38
+Tema: História dos foguetes - link: https://pt.wikipedia.org/wiki/Hist%C3%B3ria_dos_foguetes
+Tema: velocidade - link: https://pt.wikipedia.org/wiki/Velocidade
+Tema: cintos de segurança - link: https://pt.wikipedia.org/wiki/Cinto_de_seguran%C3%A7a
+Tema: Chevrolet Corvette - link: https://pt.wikipedia.org/wiki/Chevrolet_Corvette
+Tema: astromóvel - link: https://pt.wikipedia.org/wiki/Astrom%C3%B3vel
+Tema: Terra - link: https://pt.wikipedia.org/wiki/Terra
+Tema: Lunar Roving Vehicle - link: https://pt.wikipedia.org/wiki/Lunar_Roving_Vehicle
+Tema: jipe - link: https://pt.wikipedia.org/wiki/Jipe
+Tema: motores elétricos - link: https://pt.wikipedia.org/wiki/Motores_el%C3%A9tricos
+Tema: Lua - link: https://pt.wikipedia.org/wiki/Lua
+Tema: Apollo 15 - link: https://pt.wikipedia.org/wiki/Apollo_15
+Tema: [35] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-TDIA-35
+Tema: Volkswagen Fusca - link: https://pt.wikipedia.org/wiki/Volkswagen_Fusca
+Tema: traduzido - link: https://pt.wikipedia.org/wiki/Tradu%C3%A7%C3%A3o
+Tema: alemão - link: https://pt.wikipedia.org/wiki/L%C3%ADngua_alem%C3%A3
+Tema: Ferdinand Porsche - link: https://pt.wikipedia.org/wiki/Ferdinand_Porsche
+Tema: Adolf Hitler - link: https://pt.wikipedia.org/wiki/Adolf_Hitler
+Tema: Segunda Guerra Mundial - link: https://pt.wikipedia.org/wiki/Segunda_Guerra_Mundial
+Tema: Itamar Franco - link: https://pt.wikipedia.org/wiki/Itamar_Franco
+Tema: besouro - link: https://pt.wikipedia.org/wiki/Besouro
+Tema: New Beetle - link: https://pt.wikipedia.org/wiki/New_Beetle
+Tema: carece de fontes - link: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Livro_de_estilo/Cite_as_fontes
+Tema: air bags - link: https://pt.wikipedia.org/wiki/Air_bag
+Tema: General Motors - link: https://pt.wikipedia.org/wiki/General_Motors
+Tema: BMW - link: https://pt.wikipedia.org/wiki/BMW
+Tema: linhas de montagem - link: https://pt.wikipedia.org/wiki/Linha_de_montagem
+Tema: sedan - link: https://pt.wikipedia.org/wiki/Sedan_(autom%C3%B3vel)
+Tema: Salão do Automóvel - link: https://pt.wikipedia.org/wiki/Sal%C3%A3o_do_Autom%C3%B3vel
+Tema: Detroit - link: https://pt.wikipedia.org/wiki/Detroit
+Tema: ferrugem - link: https://pt.wikipedia.org/wiki/Ferrugem
+Tema: polietileno - link: https://pt.wikipedia.org/wiki/Polietileno
+Tema: garrafas - link: https://pt.wikipedia.org/wiki/Garrafa
+Tema: refrigerante - link: https://pt.wikipedia.org/wiki/Refrigerante
+Tema: carece de fontes - link: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Livro_de_estilo/Cite_as_fontes
+Tema: Portugal - link: https://pt.wikipedia.org/wiki/Portugal
+Tema: Panhard-Levassor - link: https://pt.wikipedia.org/wiki/Panhard
+Tema: Paris - link: https://pt.wikipedia.org/wiki/Paris
+Tema: Conde de Avilez - link: https://pt.wikipedia.org/wiki/Conde_de_Avilez
+Tema: alfândega - link: https://pt.wikipedia.org/wiki/Alf%C3%A2ndega
+Tema: Lisboa - link: https://pt.wikipedia.org/wiki/Lisboa
+Tema: movida a vapor - link: https://pt.wikipedia.org/wiki/Motor_a_vapor
+Tema: Santiago do Cacém - link: https://pt.wikipedia.org/wiki/Santiago_do_Cac%C3%A9m
+Tema: burro - link: https://pt.wikipedia.org/wiki/Burro
+Tema: [39] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-39
+Tema: Instituto Nacional de Tecnologia - link: https://pt.wikipedia.org/wiki/Instituto_Nacional_de_Tecnologia
+Tema: álcool etílico - link: https://pt.wikipedia.org/wiki/%C3%81lcool_et%C3%ADlico
+Tema: [40] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-40
+Tema: circuito da Gávea - link: https://pt.wikipedia.org/wiki/Circuito_da_G%C3%A1vea
+Tema: Rio de Janeiro - link: https://pt.wikipedia.org/wiki/Rio_de_Janeiro_(cidade)
+Tema: Automóvel Clube do Brasil - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel_Clube_do_Brasil
+Tema: [41] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Do_primeiro_carro_a_%C3%A1lcool_ao_bioquerosene_de_avia%C3%A7%C3%A3o-41
+Tema: São Paulo - link: https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo_(cidade)
+Tema: Barra do Piraí - link: https://pt.wikipedia.org/wiki/Barra_do_Pira%C3%AD
+Tema: Petrópolis - link: https://pt.wikipedia.org/wiki/Petr%C3%B3polis
+Tema: [41] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Do_primeiro_carro_a_%C3%A1lcool_ao_bioquerosene_de_avia%C3%A7%C3%A3o-41
+Tema: piloto - link: https://pt.wikipedia.org/wiki/Piloto_(automobilismo)
+Tema: Chico Landi - link: https://pt.wikipedia.org/wiki/Chico_Landi
+Tema: metanol - link: https://pt.wikipedia.org/wiki/Metanol
+Tema: Europa - link: https://pt.wikipedia.org/wiki/Europa
+Tema: [42] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-42
+Tema: Fábrica Nacional de Motores - link: https://pt.wikipedia.org/wiki/F%C3%A1brica_Nacional_de_Motores
+Tema: [43] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-LHMP-43
+Tema: motores aeronáuticos - link: https://pt.wikipedia.org/wiki/Motor_aeron%C3%A1utico
+Tema: [44] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-44
+Tema: "Fábrica Nacional de Mobilidade - link: https://pt.wikipedia.org/wiki/F%C3%A1brica_Nacional_de_Mobilidade
+Tema: caminhões elétricos - link: https://pt.wikipedia.org/wiki/Ve%C3%ADculo_el%C3%A9trico
+Tema: [43] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-LHMP-43
+Tema: Segunda Guerra Mundial - link: https://pt.wikipedia.org/wiki/Segunda_Guerra_Mundial
+Tema: veículos oficiais - link: https://pt.wikipedia.org/wiki/Ve%C3%ADculo_oficial
+Tema: serviços públicos - link: https://pt.wikipedia.org/wiki/Servi%C3%A7o_p%C3%BAblico
+Tema: [45] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Gasog%C3%AAnio-45
+Tema: [46] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-46
+Tema: transporte público - link: https://pt.wikipedia.org/wiki/Transporte_p%C3%BAblico
+Tema: gasogênio - link: https://pt.wikipedia.org/wiki/Gasog%C3%AAnio
+Tema: Georges Imbert - link: https://pt.wikipedia.org/wiki/Georges_Imbert
+Tema: [47] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-47
+Tema: gás pobre - link: https://pt.wikipedia.org/wiki/G%C3%A1s_pobre
+Tema: [45] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Gasog%C3%AAnio-45
+Tema: [48] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Gasog%C3%AAnio,_o_motor_movido_a_carv%C3%A3o-48
+Tema: automobilismo - link: https://pt.wikipedia.org/wiki/Automobilismo
+Tema: [49] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-49
+Tema: carvão vegetal - link: https://pt.wikipedia.org/wiki/Carv%C3%A3o_vegetal
+Tema: [50] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-50
+Tema: [48] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Gasog%C3%AAnio,_o_motor_movido_a_carv%C3%A3o-48
+Tema: Automobilismo de velocidade - link: https://pt.wikipedia.org/wiki/Automobilismo_de_velocidade
+Tema: [51] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-carroantigo-51
+Tema: Romi-Isetta - link: https://pt.wikipedia.org/wiki/Romi-Isetta
+Tema: Indústrias Romi - link: https://pt.wikipedia.org/wiki/Ind%C3%BAstrias_Romi
+Tema: Santa Bárbara d'Oeste - link: https://pt.wikipedia.org/wiki/Santa_B%C3%A1rbara_d%27Oeste
+Tema: interior - link: https://pt.wikipedia.org/wiki/Interior_paulista
+Tema: São Paulo - link: https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo_(estado)
+Tema: [52] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Romi-Isetta:_o_pequeno_pioneiro-52
+Tema: [52] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-Romi-Isetta:_o_pequeno_pioneiro-52
+Tema: Vemag - link: https://pt.wikipedia.org/wiki/Vemag
+Tema: [53] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-53
+Tema: DKW - link: https://pt.wikipedia.org/wiki/DKW
+Tema: [54] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-54
+Tema: 1958 - link: https://pt.wikipedia.org/wiki/1958
+Tema: sedãs - link: https://pt.wikipedia.org/wiki/Sedan
+Tema: peruas - link: https://pt.wikipedia.org/wiki/Sw
+Tema: jipe - link: https://pt.wikipedia.org/wiki/Jipe
+Tema: Fissore - link: https://pt.wikipedia.org/wiki/Carrocerias_Fissore
+Tema: Itália - link: https://pt.wikipedia.org/wiki/It%C3%A1lia
+Tema: Kombi - link: https://pt.wikipedia.org/wiki/Kombi
+Tema: [55] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-55
+Tema: [56] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-56
+Tema: [57] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-who_stats2-57
+Tema: Mary Ward - link: https://pt.wikipedia.org/wiki/Mary_Ward
+Tema: 1869 - link: https://pt.wikipedia.org/wiki/1869
+Tema: Parsonstown - link: https://pt.wikipedia.org/w/index.php?title=Parsonstown&action=edit&redlink=1
+Tema: Irlanda - link: https://pt.wikipedia.org/w/index.php?title=Rep%C3%BAblica_da_irlanda&action=edit&redlink=1
+Tema: [58] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-ward-58
+Tema: Henry Bliss - link: https://pt.wikipedia.org/wiki/Henry_Bliss
+Tema: Estados Unidos - link: https://pt.wikipedia.org/wiki/Estados_Unidos
+Tema: 1899 - link: https://pt.wikipedia.org/wiki/1899
+Tema: Nova Iorque - link: https://pt.wikipedia.org/wiki/Nova_Iorque
+Tema: [59] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-bliss-59
+Tema: EuroNCAP - link: https://pt.wikipedia.org/wiki/EuroNCAP
+Tema: [60] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-60
+Tema: IIHS - link: https://pt.wikipedia.org/w/index.php?title=IIHS&action=edit&redlink=1
+Tema: [61] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-61
+Tema: borracha - link: https://pt.wikipedia.org/wiki/Borracha
+Tema: 1895 - link: https://pt.wikipedia.org/wiki/1895
+Tema: bicicletas - link: https://pt.wikipedia.org/wiki/Bicicleta
+Tema: Edouard Michelin - link: https://pt.wikipedia.org/wiki/Edouard_Michelin
+Tema: indústria automotiva - link: https://pt.wikipedia.org/wiki/Ind%C3%BAstria_automotiva
+Tema: [62] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-62
+Tema: Europa - link: https://pt.wikipedia.org/wiki/Europa
+Tema: Ásia - link: https://pt.wikipedia.org/wiki/%C3%81sia
+Tema: Pacífico - link: https://pt.wikipedia.org/wiki/Oceania
+Tema: Estados Unidos - link: https://pt.wikipedia.org/wiki/Estados_Unidos
+Tema: Canadá - link: https://pt.wikipedia.org/wiki/Canad%C3%A1
+Tema: América Latina - link: https://pt.wikipedia.org/wiki/Am%C3%A9rica_Latina
+Tema: Oriente Médio - link: https://pt.wikipedia.org/wiki/Oriente_M%C3%A9dio
+Tema: África - link: https://pt.wikipedia.org/wiki/%C3%81frica
+Tema: [63] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-63
+Tema: América do Norte - link: https://pt.wikipedia.org/wiki/Am%C3%A9rica_do_Norte
+Tema: Japão - link: https://pt.wikipedia.org/wiki/Jap%C3%A3o
+Tema: América do Sul - link: https://pt.wikipedia.org/wiki/Am%C3%A9rica_do_Sul
+Tema: China - link: https://pt.wikipedia.org/wiki/Rep%C3%BAblica_Popular_da_China
+Tema: Rússia - link: https://pt.wikipedia.org/wiki/R%C3%BAssia
+Tema: Brasil - link: https://pt.wikipedia.org/wiki/Brasil
+Tema: Índia - link: https://pt.wikipedia.org/wiki/%C3%8Dndia
+Tema: gasolina - link: https://pt.wikipedia.org/wiki/Gasolina
+Tema: diesel - link: https://pt.wikipedia.org/wiki/Diesel
+Tema: [13] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-plunkettresearch.com-13
+Tema: [64] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-cst.uwinnipeg.ca-64
+Tema: [65] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-health-65
+Tema: [66] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-66
+Tema: petróleo - link: https://pt.wikipedia.org/wiki/Petr%C3%B3leo
+Tema: indústria automobilística - link: https://pt.wikipedia.org/wiki/Ind%C3%BAstria_automobil%C3%ADstica
+Tema: matérias-primas - link: https://pt.wikipedia.org/wiki/Mat%C3%A9rias-primas
+Tema: transportes públicos - link: https://pt.wikipedia.org/wiki/Transportes_p%C3%BAblicos
+Tema: [67] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-67
+Tema: [68] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-68
+Tema: demanda - link: https://pt.wikipedia.org/wiki/Demanda
+Tema: indústria - link: https://pt.wikipedia.org/wiki/Ind%C3%BAstria
+Tema: [69] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-69
+Tema: europeu - link: https://pt.wikipedia.org/wiki/Europa
+Tema: [70] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-70
+Tema: [71] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-71
+Tema: poluição - link: https://pt.wikipedia.org/wiki/Polui%C3%A7%C3%A3o
+Tema: sonora - link: https://pt.wikipedia.org/wiki/Polui%C3%A7%C3%A3o_sonora
+Tema: ar - link: https://pt.wikipedia.org/wiki/Polui%C3%A7%C3%A3o_do_ar
+Tema: American Surface Transportation Policy Project - link: https://pt.wikipedia.org/w/index.php?title=American_Surface_Transportation_Policy_Project&action=edit&redlink=1
+Tema: estadunidenses - link: https://pt.wikipedia.org/wiki/Estadunidenses
+Tema: ar - link: https://pt.wikipedia.org/wiki/Ar
+Tema: [72] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-72
+Tema: Estados Unidos - link: https://pt.wikipedia.org/wiki/Estados_Unidos
+Tema: toneladas - link: https://pt.wikipedia.org/wiki/Tonelada
+Tema: dióxido de carbono - link: https://pt.wikipedia.org/wiki/Di%C3%B3xido_de_carbono
+Tema: monóxido de carbono - link: https://pt.wikipedia.org/wiki/Mon%C3%B3xido_de_carbono
+Tema: hidrocarbonetos - link: https://pt.wikipedia.org/wiki/Hidrocarboneto
+Tema: nitrogênio - link: https://pt.wikipedia.org/wiki/Nitrog%C3%AAnio
+Tema: [73] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-73
+Tema: habitat - link: https://pt.wikipedia.org/wiki/Habitat
+Tema: metros quadrados - link: https://pt.wikipedia.org/wiki/Metros_quadrados
+Tema: produção primária - link: https://pt.wikipedia.org/wiki/Produ%C3%A7%C3%A3o_prim%C3%A1ria
+Tema: [74] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-74
+Tema: Impostos - link: https://pt.wikipedia.org/wiki/Imposto
+Tema: veículos híbridos - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel_h%C3%ADbrido
+Tema: combustíveis alternativos - link: https://pt.wikipedia.org/wiki/Combust%C3%ADveis_alternativos
+Tema: álcool - link: https://pt.wikipedia.org/wiki/%C3%81lcool_combust%C3%ADvel
+Tema: biogasolina - link: https://pt.wikipedia.org/wiki/Biogasolina
+Tema: biodiesel - link: https://pt.wikipedia.org/wiki/Biodiesel
+Tema: etanol de carvão - link: https://pt.wikipedia.org/wiki/Etanol_de_carv%C3%A3o
+Tema: Células de combustível - link: https://pt.wikipedia.org/wiki/C%C3%A9lula_de_combust%C3%ADvel
+Tema: hidrogênio - link: https://pt.wikipedia.org/wiki/Hidrog%C3%AAnio
+Tema: [6] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-WIPO-6
+Tema: etanol - link: https://pt.wikipedia.org/wiki/Etanol
+Tema: álcool combustível - link: https://pt.wikipedia.org/wiki/%C3%81lcool_combust%C3%ADvel
+Tema: [75] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-75
+Tema: recicláveis - link: https://pt.wikipedia.org/wiki/Reciclagem
+Tema: aço - link: https://pt.wikipedia.org/wiki/A%C3%A7o
+Tema: [76] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-76
+Tema: mecânicos - link: https://pt.wikipedia.org/wiki/Mec%C3%A2nico
+Tema: eletricistas - link: https://pt.wikipedia.org/wiki/Eletricista
+Tema: lanterneiros - link: https://pt.wikipedia.org/wiki/Lanterneiro
+Tema: gás carbônico - link: https://pt.wikipedia.org/wiki/G%C3%A1s_carb%C3%B4nico
+Tema: [77] - link: https://pt.wikipedia.org/wiki/Autom%C3%B3vel#cite_note-77
