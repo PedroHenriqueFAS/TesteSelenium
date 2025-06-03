@@ -16,7 +16,7 @@ INITIAL_LINK = "https://pt.wikipedia.org/wiki/George_Boole"
 
 driver.get(INITIAL_LINK)
 
-h1 = driver.find_element(By.ID, 'firstHeading')
+h1 = driver.find_element(By.ID, 'firstHeading')  #O find_element usamos quando ha um elemento web, logo o find_element retorna um unico elemento
 
 print('Assunto: ', h1.text)
 
@@ -28,7 +28,7 @@ assuntos_chave = []
 for paragrafo in paragrafos: #veja se tem ancoras dentro dos paragrafos
     elementos_ancora = paragrafo.find_elements(By.TAG_NAME, 'a') #Lista de elementos ancoras
     for ancora in elementos_ancora:
-        assuntos_chave.append(ancora.get_attribute('href')) #Adiciona na assuntos_chave cada ancora encontrada
+        assuntos_chave.append(ancora.get_attribute('href')) #Adiciona na assuntos_chave(gera uma lista de links) cada ancora encontrada
         
 for elemento in assuntos_chave:
     print(elemento)
