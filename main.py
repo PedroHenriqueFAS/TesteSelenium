@@ -10,7 +10,7 @@ service = Service(executable_path = path)
 
 driver = webdriver.Chrome(options=options, service=service)
 
-assunto = input('Diggite o assunto que deseja pesquisar: ')
+assunto = input('Digite o assunto que deseja pesquisar: ')
 
 # Pesquissar um link -> driver.get
 INITIAL_LINK = f"https://pt.wikipedia.org/wiki/{assunto}"
@@ -37,7 +37,7 @@ for paragrafo in paragrafos: #veja se tem ancoras dentro dos paragrafos
 for elemento in assuntos_chave:
     print(elemento)
     
-with open('assuntos.txt', 'w+') as file:
+with open('assuntos.txt', 'w+', encoding='utf-8') as file:
     file.write(f'Assunto: {h1.text}\n')
     
     for assunto in assuntos_chave:
