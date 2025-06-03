@@ -8,12 +8,13 @@ options = webdriver.ChromeOptions()
 
 service = Service(executable_path = path)
 
+
 driver = webdriver.Chrome(options=options, service=service)
 
-assunto = input('Diggite o assunto que deseja pesquisar: ')
+
 
 # Pesquissar um link -> driver.get
-INITIAL_LINK = f"https://pt.wikipedia.org/wiki/{assunto}"
+INITIAL_LINK = "https://pt.wikipedia.org/wiki/George_Boole"
 
 driver.get(INITIAL_LINK)
 
