@@ -8,11 +8,12 @@ options = webdriver.ChromeOptions()
 
 service = Service(executable_path = path)
 
-
 driver = webdriver.Chrome(options=options, service=service)
 
+assunto = input('Diggite o assunto que deseja pesquisar: ')
+
 # Pesquissar um link -> driver.get
-INITIAL_LINK = "https://pt.wikipedia.org/wiki/George_Boole"
+INITIAL_LINK = f"https://pt.wikipedia.org/wiki/{assunto}"
 
 driver.get(INITIAL_LINK)
 
@@ -26,7 +27,8 @@ paragrafos = texto_geral.find_elements(By.TAG_NAME, 'p') # guarda uma lista de e
 
 assuntos_chave = []
 for paragrafo in paragrafos: #veja se tem ancoras dentro dos paragrafos
-    elementos_ancora = paragrafo.find_elements(By.TAG_NAME, 'a') #Lista de elementos ancoras
+    elementos_ancora = paragrafo.find_elements(
+        By.TAG_NAME, 'a') #Lista de elementos ancoras
     for ancora in elementos_ancora:
         #Adiciona na assuntos_chave(gera uma lista de links) cada ancora encontrada
         print(ancora.text)
@@ -34,4 +36,11 @@ for paragrafo in paragrafos: #veja se tem ancoras dentro dos paragrafos
         
 for elemento in assuntos_chave:
     print(elemento)
+    
+with open('assuntos.txt', 'w+') as file:
+    file.write(f'Assunto: {h1.text}\n')
+    
+    for assunto in assuntos_chave:
+        file.write(f"Tema: {assunto[0]} - link: {assunto[1]}\n")
+        
 input('enter para finalizar\n')
